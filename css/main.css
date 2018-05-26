@@ -1,0 +1,53 @@
+body{
+	margin:0px;
+	padding:0px;  
+}
+
+ul{
+	padding: 5px 0px;
+	}
+
+	h1{
+		font-size: 2em;
+		color: blue;
+	}
+
+	nav{
+		background-color: red;
+		padding: 10px;
+		text-align: center; 
+	}
+
+	li{
+		color: red;
+		background-color: red;
+		display: inline-block;
+		margin: 10px;
+		padding: 5px;
+	}
+
+	a{
+		color: black;
+		text-align: center;
+	}
+
+	section{
+		background-color: red;
+		text-align: center;
+	}
+
+	.box{
+		display: inline-block;
+		width: 30%;
+
+	}
+
+	.box img{
+		width: 100%;
+	}
+
+	.box p{
+		background-color:white;
+		border: 2px solid black;
+		padding: 10px; 
+	}
